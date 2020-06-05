@@ -1,6 +1,6 @@
 # K-Means-Clustering
 
-    This is a K-Means Clustering project.
+   This is a K-Means Clustering project.
     
 # Content
 
