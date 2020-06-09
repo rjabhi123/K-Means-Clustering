@@ -5,7 +5,7 @@
 # Content
 
    * Mall_Customers.csv
-   * data_preprocessing_template.py
+   * data_preprocessing_template.py.
    * kmeans.py
     
 ## Mall_Customers.csv
